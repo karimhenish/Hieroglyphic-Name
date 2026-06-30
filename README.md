@@ -58,15 +58,15 @@ I was responsible for:
 
 ## Home Screen
 
-![Home](screenshots/home.png)
+![Home](screenshots/Home Screen.jpeg)
 
 ## Result Screen
 
-![Result](screenshots/result.png)
+![Result](screenshots/Result Screen.jpeg)
 
 ## Share Screen
 
-![Share](screenshots/share.png)
+![Share](screenshots/Share Screen.jpeg)
 
 ---
 
