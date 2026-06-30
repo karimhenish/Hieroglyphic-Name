@@ -1,13 +1,13 @@
 # Hieroglyphic Name
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-3.x-blue?logo=dart)
+![Platform](https://img.shields.io/badge/Platform-Android-green)
 
-A Flutter application that converts English names into Ancient Egyptian hieroglyphic symbols in a simple and interactive way.
+A Flutter application that converts English names into Ancient Egyptian hieroglyphic symbols with an intuitive user experience and seamless result sharing.
 
-<p align="center">
-  <img src="screenshots/Home Screen.jpeg" width="220"/>
-  <img src="screenshots/Text Name.jpeg" width="220"/>
-  <img src="screenshots/Result Screen.jpeg" width="220"/>
-  <img src="screenshots/Share Screen.jpeg" width="220"/>
-</p>
+## 🎯 Business Goal
+
+The application was designed to transform high-volume SEO searches into an interactive user experience that increases engagement and helps generate qualified leads.
 
 ---
 
@@ -36,37 +36,33 @@ The goal was not only to improve the user experience but also to create a lead m
 - Flutter
 - Dart
 - Photoshop (UI Design)
+- Screenshot
 
 ---
 
 # 👨‍💻 My Contribution
 
-This project was completely built by me.
+This project was designed and developed entirely by me, from the initial idea to the final implementation.
 
 I was responsible for:
 
-- SEO opportunity analysis.
+- SEO research and opportunity discovery.
 - Product idea and planning.
-- UI/UX design using Adobe Photoshop.
-- Flutter application development.
+- UI/UX design.
+- Flutter development.
 - Hieroglyphic conversion logic.
 - Testing and optimization.
-
 ---
 
 # 📸 Screenshots
 
-## Home Screen
 
-![Home](screenshots/Home Screen.jpeg)
-
-## Result Screen
-
-![Result](screenshots/Result Screen.jpeg)
-
-## Share Screen
-
-![Share](screenshots/Share Screen.jpeg)
+<p align="center">
+  <img src="screenshots/Home Screen.jpeg" width="220"/>
+  <img src="screenshots/Text Name.jpeg" width="220"/>
+  <img src="screenshots/Result Screen.jpeg" width="220"/>
+  <img src="screenshots/Share Screen.jpeg" width="220"/>
+</p>
 
 ---
 
@@ -103,6 +99,7 @@ pubspec.yaml
 ```
 
 ---
+
 
 ## 👨‍💻 Author
 
