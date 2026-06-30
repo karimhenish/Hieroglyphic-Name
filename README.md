@@ -104,6 +104,8 @@ pubspec.yaml
 
 ---
 
-# 📄 License
+## 👨‍💻 Author
 
-This project is available for learning and portfolio purposes.
+Designed and developed by **Karim Maher**.
+
+If you like this project, don't forget to ⭐ the repository.
